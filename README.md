@@ -31,7 +31,7 @@ The project focuses on keeping the interface clean, lightweight, and easy to use
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DimoCTL.git
+git clone https://github.com/cinar105/DimoCTL.git
 cd DimoCTL
 ```
 
