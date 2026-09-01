@@ -20,7 +20,7 @@ The project focuses on keeping the interface clean, lightweight, and easy to use
 
 ## Screenshots
 
-![DimoCTL](assets/screenshot.png)
+![DimoCTL](screenshot.png)
 
 > Screenshots may change as development continues.
 
